@@ -120,7 +120,7 @@ plt.show()
 ```
 # OUTPUT:
 <img src = "https://github.com/Adhithyaram29D/Ex-2--NN/assets/119393540/8bc30812-6387-49df-b610-dde47159356c" width="300">
-<img src = "https://github.com/Adhithyaram29D/Ex-2--NN/assets/119393540/587b7f97-31ec-4f86-82d0-2c56c32cf419" width="400">
+<img src = "https://github.com/Adhithyaram29D/Ex-2--NN/assets/119393540/587b7f97-31ec-4f86-82d0-2c56c32cf419" width="300">
 <img src = "https://github.com/Adhithyaram29D/Ex-2--NN/assets/119393540/2546c025-125f-4280-9190-7785e7ce81be" width="400">
 <img src= "https://github.com/Adhithyaram29D/Ex-2--NN/assets/119393540/d2487875-757d-4e4a-811b-bda144338ab1" width="300">
 
