@@ -1,7 +1,7 @@
-<H3>Name</H3>ADHITHYARAM D
-<H3>Register no.</H3>212222230008
-<H3>Date</H3> : 
-<H3>Experiment No. 2 </H3>
+### Name : ADHITHYARAM D
+### Register no : 212222230008
+### Date: 
+### Experiment No. 2 
 ## Implementation of Perceptron for Binary Classification
 # AIM:
 To implement a perceptron for classification using Python<BR>
