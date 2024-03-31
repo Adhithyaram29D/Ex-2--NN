@@ -1,5 +1,5 @@
-<H3>Name</H3> : ADHITHYARAM D
-<H3>Register no.</H3> : 212222230008
+<H3>Name</H3>ADHITHYARAM D
+<H3>Register no.</H3>212222230008
 <H3>Date</H3> : 
 <H3>Experiment No. 2 </H3>
 ## Implementation of Perceptron for Binary Classification
@@ -122,7 +122,7 @@ plt.show()
 <img src = "https://github.com/Adhithyaram29D/Ex-2--NN/assets/119393540/8bc30812-6387-49df-b610-dde47159356c" width="300">
 <img src = "https://github.com/Adhithyaram29D/Ex-2--NN/assets/119393540/587b7f97-31ec-4f86-82d0-2c56c32cf419" width="400">
 <img src = "https://github.com/Adhithyaram29D/Ex-2--NN/assets/119393540/2546c025-125f-4280-9190-7785e7ce81be" width="400">
-<img src= "https://github.com/Adhithyaram29D/Ex-2--NN/assets/119393540/d2487875-757d-4e4a-811b-bda144338ab1" width="400">
+<img src= "https://github.com/Adhithyaram29D/Ex-2--NN/assets/119393540/d2487875-757d-4e4a-811b-bda144338ab1" width="300">
 
 # RESULT:
  Thus, a single layer perceptron model is implemented using python to classify Iris data set.
